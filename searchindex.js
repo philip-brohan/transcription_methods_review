@@ -1,0 +1,1 @@
+Search.setIndex({docnames:["index"],envversion:52,filenames:["index.rst"],objects:{},objnames:{},objtypes:{},terms:{document:0,govern:0,licenc:0,licens:0,open:0,term:0,thi:0,under:0},titles:["Best practices in the transcription of weather observations"],titleterms:{best:0,observ:0,practic:0,transcript:0,weather:0}})
