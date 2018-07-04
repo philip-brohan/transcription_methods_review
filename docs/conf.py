@@ -54,7 +54,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'TranscriptionBP'
+project = u'Transcription Best Practices'
 copyright = u'2018, Philip Brohan'
 author = u'Philip Brohan'
 

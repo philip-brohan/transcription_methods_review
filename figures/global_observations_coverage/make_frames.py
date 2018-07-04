@@ -26,7 +26,9 @@ def next_timestep(dte):
     old=dte
     new=dte+datetime.timedelta(minutes=30)
     if(old.month!=new.month):
-        new=new+datetime.timedelta(years=5)
+        new=datetime.datetime(new.year+5,
+                     new.month,new.day,
+                     new.hour,new.minute)
     return new
 
 start_day=datetime.datetime(1851, 1, 1,13)
