@@ -16,5 +16,5 @@ Everything we know about past climate change and variability depends upon access
 
     A sample of the observations available for reconstructing past climate. These are pressure observations in the International Surface Pressure Databank (version 3.2.9). The limited number of observations available in earlier years is a major limitation on our ability to reconstruct past climate. (<a href="figures/global_observations_coverage.html">Figure source</a>).
 
-
+This dataset contains :doc:`1,133,185,756 observations over the period 1851-2000 <figures/global_observations_count>`, nothing like enough.
 
