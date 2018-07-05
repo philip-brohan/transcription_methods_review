@@ -1,0 +1,8 @@
+Figures index
+=============
+
+.. toctree::
+   :maxdepth: 1
+
+   global_observations_coverage
+
