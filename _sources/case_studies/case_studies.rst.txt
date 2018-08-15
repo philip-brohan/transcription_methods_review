@@ -1,14 +1,22 @@
 Transcription project case studies
 ==================================
 
-Professional transcription
---------------------------
+Large-scale professional transcription
+--------------------------------------
 
 .. toctree::
    :maxdepth: 1
 
+   RN_WW2/RN_WW2
    EEIC/EEIC
-   UK_storms/UK_storms
+
+Small-scale professional transcription
+--------------------------------------
+
+.. toctree::
+   :maxdepth: 1
+
+   Expeditions/Expeditions
 
 
 Student Projects
@@ -19,9 +27,10 @@ Citizen Science
 ---------------
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
    oldweather/oldweather
+   DWR/DWR
 
 Automated systems
 -----------------
