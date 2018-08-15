@@ -16,7 +16,6 @@ Small-scale professional transcription
 .. toctree::
    :maxdepth: 1
 
-   CORRAL/CORRAL
    Expeditions/Expeditions
 
 
