@@ -148,7 +148,7 @@ html_short_title = u'Transcription Best Practice'
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
 #
-html_logo = 'logo/ADM_53-44341-008.jpg'
+html_logo = 'logo/classifications.png'
 
 # The name of an image file (relative to this directory) to use as a favicon of
 # the docs.  This file should be a Windows icon file (.ico) being 16x16 or 32x32
