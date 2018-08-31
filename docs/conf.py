@@ -54,7 +54,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Transcription Best Practice'
+project = u'Transcription Review'
 copyright = u'2018, Philip Brohan'
 author = u'Philip Brohan'
 
@@ -139,11 +139,11 @@ html_theme = 'sphinxdoc'
 # The name for this set of Sphinx documents.
 # "<project> v<release> documentation" by default.
 #
-html_title = u'Best practices in the transcription of weather observations'
+html_title = u'Approaches to transcription of weather observations'
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 #
-html_short_title = u'Transcription Best Practice'
+html_short_title = u'Transcription Review'
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
