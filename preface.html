@@ -1,0 +1,112 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>What this is, and why &#8212; Approaches to transcription of weather observations</title>
+    <link rel="stylesheet" href="_static/sphinxdoc.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    <script type="text/javascript" src="_static/documentation_options.js"></script>
+    <script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/underscore.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="The transcription problem" href="the_problem.html" />
+    <link rel="prev" title="Approaches to transcription of weather observations" href="index.html" /> 
+  </head><body>
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="genindex.html" title="General Index"
+             accesskey="I">index</a></li>
+        <li class="right" >
+          <a href="the_problem.html" title="The transcription problem"
+             accesskey="N">next</a> |</li>
+        <li class="right" >
+          <a href="index.html" title="Approaches to transcription of weather observations"
+             accesskey="P">previous</a> |</li>
+        <li class="nav-item nav-item-0"><a href="index.html">Transcription Review</a> &#187;</li> 
+      </ul>
+    </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+            <p class="logo"><a href="index.html">
+              <img class="logo" src="_static/classifications.png" alt="Logo"/>
+            </a></p>
+<h3><a href="index.html">Table Of Contents</a></h3>
+<ul class="current">
+<li class="toctree-l1 current"><a class="current reference internal" href="#">What this is, and why</a></li>
+</ul>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="the_problem.html">The transcription problem</a></li>
+<li class="toctree-l1"><a class="reference internal" href="existing_guidance.html">Existing guidance</a></li>
+<li class="toctree-l1"><a class="reference internal" href="case_studies/case_studies.html">Transcription project case studies</a></li>
+</ul>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="credits.html">Authors and acknowledgements</a></li>
+</ul>
+<h3><a href="https://github.com/philip-brohan/transcription_methods_review">Get the source code</a></h3>
+
+<a href="https://github.com/philip-brohan/transcription_methods_review"
+           rel="nofollow">Github source repository</a>
+
+<h3>Found a bug, or have a suggestion?</h3>
+
+Please <a href="https://github.com/philip-brohan/transcription_methods_review/issues/new">raise an issue</a>.
+        </div>
+      </div>
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body" role="main">
+            
+  <div class="section" id="what-this-is-and-why">
+<h1>What this is, and why<a class="headerlink" href="#what-this-is-and-why" title="Permalink to this headline">¶</a></h1>
+<p>This is a detailed review of a variety of methods that have been used for historical weather data rescue, an overview of the lessons learned from each method, and some suggestions for future projects.</p>
+<p>Such data rescue is now a well established activity, with <a class="reference internal" href="existing_guidance.html"><span class="doc">a good selection of reports and papers offering justifications and advice</span></a>. Rather than just adding to this collection, here we are providing a much more detailed description of a wide-ranging set of sample data rescue projects: In each case aiming to describe <em>exactly</em> what was done - in enough detail to let others reproduce the work, or to use these projects as the basis for a new one. In addition to the detailed project descriptions, we add a brief discussion of the lessons learned from each project, and an overview of the costs, strengths, and weaknesses of each approach.</p>
+<p>This is not a paper, or a report. Instead it borrows a standard approach from the modern software industry. This is a collection of <a class="reference external" href="https://help.github.com/articles/about-repositories/">GitHub repositories</a>. Each repository is a comprehensive collection of the data, software, and results of one example data-rescue project; some of them also contain an associated web site (made with <a class="reference external" href="https://pages.github.com/">GitHub pages</a>). The repositories included are:</p>
+<ul class="simple">
+<li>Weather observations from marine expeditions: <a class="reference external" href="https://github.com/oldweather/Expeditions">Repository</a>, <a class="reference external" href="https://oldweather.github.io/Expeditions/">Web site</a>.</li>
+<li>New UK-region weather observations digitised from the Daily Weather Reports: <a class="reference external" href="https://github.com/oldweather/DWR">Repository</a>, <a class="reference external" href="https://oldweather.github.io/DWR/">Web site</a>.</li>
+<li>Royal Navy observations for the WW2 period: <a class="reference external" href="https://github.com/oldweather/RN-WW2">Repository</a>.</li>
+<li>Weather observations from English East India Company ships: <a class="reference external" href="https://github.com/oldweather/EEIC">Repository</a>.</li>
+<li>oldWeather.org phases 1&amp;2: <a class="reference external" href="https://github.com/oldweather/oldWeather1">Repository</a>.</li>
+<li>oldWeather.org phase 3: <a class="reference external" href="https://github.com/oldweather/oldWeather3">Repository</a>.</li>
+<li>Auto-transcription benchmark 1: Fort William pressures: <a class="reference external" href="https://github.com/philip-brohan/OCR-weatherrescue">Repository</a>, <a class="reference external" href="https://brohan.org/OCR-weatherrescue/">Web site</a>.</li>
+</ul>
+<p>As well as these project repositories, there is <a class="reference external" href="https://github.com/philip-brohan/transcription_methods_review">one more</a> containing the overview, the <a class="reference external" href="http://brohan.org/transcription_methods_review/index.html">web site of which</a> is what you are currently reading.</p>
+<p>A virtue of this approach is that it contains vastly more information than any possible paper document; this should make it much more useful to anyone setting up a new data rescue project. It is far from comprehensive - there are many other projects out there not included - but it does cover a wide range of approaches.</p>
+<p>This is version 0.0.1, dated at 2018-08-31. If you have found a problem with it, or want to make a comment, please <a class="reference external" href="https://github.com/oldweather/20CRv3-diagnostics/issues/new">raise an issue</a>.</p>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="genindex.html" title="General Index"
+             >index</a></li>
+        <li class="right" >
+          <a href="the_problem.html" title="The transcription problem"
+             >next</a> |</li>
+        <li class="right" >
+          <a href="index.html" title="Approaches to transcription of weather observations"
+             >previous</a> |</li>
+        <li class="nav-item nav-item-0"><a href="index.html">Transcription Review</a> &#187;</li> 
+      </ul>
+    </div>
+    <div class="footer" role="contentinfo">
+    </div>
+  </body>
+</html>

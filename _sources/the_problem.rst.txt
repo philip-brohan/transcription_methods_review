@@ -9,7 +9,7 @@ Everything we know about past climate change and variability depends upon access
 
     <center>
     <table><tr><td><center>
-    <iframe src="https://player.vimeo.com/video/278299089?title=0&byline=0&portrait=0" width="850" height="478" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></center></td></tr>
+    <iframe src="https://player.vimeo.com/video/278299089?title=0&byline=0&portrait=0" width="760" height="427" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></center></td></tr>
     <tr><td><center>A sample of the observations available for reconstructing past climate. These are pressure observations in the International Surface Pressure Databank (version 3.2.9). (<a href="figures/global_observations_coverage.html">Figure source</a>)</center></td></tr>
     </table>
     </center>
