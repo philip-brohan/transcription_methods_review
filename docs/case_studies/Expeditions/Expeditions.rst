@@ -10,6 +10,35 @@ Weather observations from marine expeditions
     </table>
     </center>
 
+Summary
+-------
+
+Lessons learned
+---------------
+
+Costs and efficiency
+--------------------
+
+|
+
+.. list-table::
+   :header-rows: 0
+
+   * - Date run
+     - 2007 - present
+   * - Elapsed time
+     - N/A (intermittent project)
+   * - observations rescued
+     - 
+   * - Financial cost (per ob.)
+     -  ()
+   * - Effort required (per ob.)
+     -  ()
+
+
+Links
+-----
+
 
 * `Repository with the rescued data <https://oldweather.github.io/Expeditions/index.html>`_
 * `Paper on some of the expeditions <https://www.clim-past.net/6/315/2010/>`_

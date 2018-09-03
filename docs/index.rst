@@ -2,18 +2,22 @@ Approaches to transcription of weather observations
 ===================================================
 
 .. toctree::
+   :titlesonly:
    :maxdepth: 1
 
    preface
 
 .. toctree::
-   :maxdepth: 2
+   :titlesonly:
+   :maxdepth: 4
 
    the_problem
    existing_guidance
    case_studies/case_studies
+   conclusions
 
 .. toctree::
+   :titlesonly:
    :maxdepth: 1
 
    credits

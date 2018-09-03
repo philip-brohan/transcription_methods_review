@@ -1,4 +1,4 @@
-Englist East-India Company logbooks, 1785-1835
+English East-India Company logbooks, 1785-1835
 ==============================================
 
 .. raw:: html
@@ -10,8 +10,33 @@ Englist East-India Company logbooks, 1785-1835
     </table>
     </center>
 
+Summary
+-------
 
+Lessons learned
+---------------
 
+Costs and efficiency
+--------------------
+
+|
+
+.. list-table::
+   :header-rows: 0
+
+   * - Date run
+     - 
+   * - Elapsed time
+     - 
+   * - observations rescued
+     - 
+   * - Financial cost (per ob.)
+     -  ()
+   * - Effort required (per ob.)
+     -  ()
+
+Links
+-----
 
 * `Paper describing this dataset <https://www.clim-past.net/8/1551/2012/cp-8-1551-2012.html>`_
 * `Repository with the rescued data <https://github.com/oldweather/EEIC>`_
