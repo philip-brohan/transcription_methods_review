@@ -26,6 +26,14 @@ Lessons learned
 Costs and efficiency
 --------------------
 
+The oldWeather website cost about £65,000 to set up (2018 £). The website running costs were bourne by `Zooniverse <https://www.zooniverse.org>`_: These would have been substantial if the site had been run stand-alone, but were much reduced because many costs could be shared across Zooniverse's whole stable of projects. In any event the running costs were not bourne by the project, so they are ignored here.
+
+The other major financial cost is project management: the project took probably about a quarter of one climate scientist's time to support. Costing them at an arbitrary £70,000 per year gives a £35,000 management cost.
+
+The 350,000 images `each took around 2 minuutes to transcribe <https://github.com/oldweather/oldWeather1/tree/master/monitoring/time_per_page>`_, and each was done three times - that's about 35,000 person-hours of work, about 21 person years at typical full-time rate (200 days/year, 8 hours/day). All this work was done by the project volunteers.
+
+The amount of volunteer work put into the project is much more than this, because the project has done much more than just transcribe the weather observations. A lot of effort has been put into history, community-building and project outreach, but this probably shouldn't be counted as a transcription cost.  
+
 |
 
 .. list-table::
@@ -36,11 +44,11 @@ Costs and efficiency
    * - Elapsed time
      - 2 years
    * - observations rescued
-     - 
+     - 7,132,659
    * - Financial cost (per ob.)
-     -  ()
+     - £100,000 (£0.014)
    * - Effort required (per ob.)
-     -  ()
+     - 21 person-years (0.3 person minutes)
 
 Links
 -----
@@ -49,4 +57,4 @@ Links
 
 |
 
-Because oldWeather was a success, we ran a :doc:`follow-on project <../oldweather3/oldweather3>`. 
+Because oldWeather was such a success, we ran a :doc:`follow-on project <../oldweather3/oldweather3>`. 

@@ -25,15 +25,17 @@ Costs and efficiency
    :header-rows: 0
 
    * - Date run
-     - 2007 - ??
+     - 2005 - 2008
    * - Elapsed time
-     - ??
+     - 3.5 years
    * - observations rescued
-     - 
+     - 8,086,529
    * - Financial cost (per ob.)
-     -  ()
+     - £1 million (£0.12)
    * - Effort required (per ob.)
-     -  ()
+     - 16 person years (1 person minute)
+
+These figures are very uncertain: (:doc:`Source <../cdmp_costs>`).
 
 Links
 -----
