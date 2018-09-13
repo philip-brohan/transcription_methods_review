@@ -13,9 +13,6 @@ English East-India Company logbooks, 1785-1835
 Summary
 -------
 
-Lessons learned
----------------
-
 Costs and efficiency
 --------------------
 
@@ -25,15 +22,20 @@ Costs and efficiency
    :header-rows: 0
 
    * - Date run
-     - 
-   * - Elapsed time
-     - 
+     - 2008 - 2011
    * - observations rescued
-     - 
+     - 614,583
+   * - Elapsed time (per ob.)
+     - 3.5 years (3 minutes)
    * - Financial cost (per ob.)
-     -  ()
+     - £1.1 million (£1.80)
    * - Effort required (per ob.)
-     -  ()
+     - 14 person years (2.2 person minutes)
+
+These figures are very uncertain: (:doc:`Methodology <../cost_methodology>` & :doc:`Data source <../cdmp_costs>`).
+
+Lessons learned
+---------------
 
 Links
 -----

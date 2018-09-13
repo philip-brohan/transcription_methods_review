@@ -29,11 +29,11 @@ Costs and efficiency
    * - Elapsed time
      - N/A (intermittent project)
    * - observations rescued
-     - 
+     - 426,813
    * - Financial cost (per ob.)
-     -  ()
+     - N/A
    * - Effort required (per ob.)
-     -  ()
+     - N/A
 
 
 Links

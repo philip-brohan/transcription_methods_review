@@ -13,9 +13,6 @@ New UK-region weather observations digitised from the Daily Weather Reports
 Summary
 -------
 
-Lessons learned
----------------
-
 Costs and efficiency
 --------------------
 
@@ -25,15 +22,19 @@ Costs and efficiency
    :header-rows: 0
 
    * - Date run
-     - 2007 - present
-   * - Elapsed time
-     - N/A (intermittent project)
+     - November 2017 - July 2018
    * - observations rescued
-     - 
+     - 1,800,000
+   * - Elapsed time
+     - 0.6 years (0.2 minutes)
    * - Financial cost (per ob.)
-     -  ()
+     - £15,000 (£0.008)
    * - Effort required (per ob.)
-     -  ()
+     - 19 person years (1 person minutes)
+
+
+Lessons learned
+---------------
 
 Links
 -----
