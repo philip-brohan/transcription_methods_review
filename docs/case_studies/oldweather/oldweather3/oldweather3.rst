@@ -17,13 +17,10 @@ Summary
 
 The project included 200,000 images, from only 18 different ships.
 
-Lessons learned
----------------
-
 Costs and efficiency
 --------------------
 
-The oldWeather3 website cost about £25,000 to set up (2018 £) - it was derived from the original oldweather site. The website running costs were bourne by `Zooniverse <https://www.zooniverse.org>`_: These would have been substantial if the site had been run stand-alone, but were much reduced because many costs could be shared across Zooniverse's whole stable of projects. In any event the running costs were not bourne by the project, so they are ignored here.
+The oldWeather3 website cost about £25,000 to set up (2018 £) - it was derived from the original oldweather site. The website running costs were borne by `Zooniverse <https://www.zooniverse.org>`_: These would have been substantial if the site had been run stand-alone, but were much reduced because many costs could be shared across Zooniverse's whole stable of projects. In any event the running costs were not borne by the project, so they are ignored here.
 
 The other major financial cost is project management: the project took probably about a fifth of one climate scientist's time to support. Costing them at an arbitrary £70,000 per year gives a £85,000 management cost.
 
@@ -38,16 +35,19 @@ The amount of volunteer work put into the project is more than this, because the
 
    * - Date run
      - 2012-2018
-   * - Elapsed time
-     - 6 years
    * - observations rescued
-     - 1,303,738 (so far, more yet to be post-processed)
+     - 1,303,738 (so far, will increase to about 5.2 million)
+   * - Elapsed time (per ob.)
+     - 6 years (2.41 minutes - will reduce to about 0.6 minutes)
    * - Financial cost (per ob.)
      - £110,000 (£0.08 - will reduce to about £0.02)
    * - Effort required (per ob.)
-     - 62 person years (25 person minutes - will reduce to about 6 person minutes)
+     - 62 person years (4.6 person minutes - will reduce to about 1.1 person minutes)
 
 We have not yet completed processing all the transcriptions into observations. When this is complete we will have perhaps 4 times as many observations from this project, and the costs per observation will reduce accordingly.
+
+Lessons learned
+---------------
 
 Links
 -----

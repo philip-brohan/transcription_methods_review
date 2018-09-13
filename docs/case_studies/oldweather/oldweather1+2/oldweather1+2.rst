@@ -20,13 +20,10 @@ oldWeather launched with about 250,000 page images to be transcribed (this phase
 oldWeather was extremely successful: `More than 16,000 volunteers contributed <https://blog.oldweather.org/2012/09/05/theres-a-green-one-and-a-pink-one-and-a-blue-one-and-a-yellow-one/>`_, it produced around `8 million new weather observations <https://github.com/oldweather/oldWeather1/tree/master/imma>`_ (`1.6 million records <https://blog.oldweather.org/2012/07/23/one-million-six-hundred-thousand-new-observations/>`_ with a typical record including air temperature, wet-bulb temperaure, pressure, wind speed, wind direction, `a present weather code <https://blog.oldweather.org/2011/04/15/the-weather-in-1-85-characters/>`_ and sometimes sea-temperature and sea-state). As well as the rescued weather observations, the project had a substantial history component, producing `high-quality ship histories <https://www.naval-history.net/OWShips-LogBooksWW1.htm>`_ which are being adopted by the `National Museum of the Royal Navy <https://www.nmrn.org.uk/>`_. Also it spun-up a `very expert and engaged volunteer community <http://forum.oldweather.org>`_, lots of press and public interest, `prizes <https://blog.oldweather.org/2013/05/16/certificated/>`_ and `awards <https://blog.oldweather.org/2014/01/31/certificated-2/>`_, `interdisciplinary collaborations <https://blog.oldweather.org/2013/10/17/learning-from-our-experience/>`_, and it inspired other citizen-science transcription projects in many fields.
 
 
-Lessons learned
----------------
-
 Costs and efficiency
 --------------------
 
-The oldWeather website cost about £65,000 to set up (2018 £). The website running costs were bourne by `Zooniverse <https://www.zooniverse.org>`_: These would have been substantial if the site had been run stand-alone, but were much reduced because many costs could be shared across Zooniverse's whole stable of projects. In any event the running costs were not bourne by the project, so they are ignored here.
+The oldWeather website cost about £65,000 to set up (2018 £). The website running costs were borne by `Zooniverse <https://www.zooniverse.org>`_: These would have been substantial if the site had been run stand-alone, but were much reduced because many costs could be shared across Zooniverse's whole stable of projects. In any event the running costs were not borne by the project, so they are ignored here.
 
 The other major financial cost is project management: the project took probably about a quarter of one climate scientist's time to support. Costing them at an arbitrary £70,000 per year gives a £35,000 management cost.
 
@@ -41,14 +38,18 @@ The amount of volunteer work put into the project is much more than this, becaus
 
    * - Date run
      - 2010-2012
-   * - Elapsed time
-     - 2 years
    * - observations rescued
      - 7,132,659
+   * - Elapsed time (per ob.)
+     - 2 years (0.15 minutes)
    * - Financial cost (per ob.)
      - £100,000 (£0.014)
    * - Effort required (per ob.)
      - 21 person-years (0.3 person minutes)
+
+
+Lessons learned
+---------------
 
 Links
 -----

@@ -13,9 +13,6 @@ Weather observations rescued from RN WW2 logs
 Summary
 -------
 
-Lessons learned
----------------
-
 Costs and efficiency
 --------------------
 
@@ -26,16 +23,19 @@ Costs and efficiency
 
    * - Date run
      - 2005 - 2008
-   * - Elapsed time
-     - 3.5 years
    * - observations rescued
      - 8,086,529
+   * - Elapsed time (per ob.)
+     - 3.5 years (0.23 minutes)
    * - Financial cost (per ob.)
      - £1 million (£0.12)
    * - Effort required (per ob.)
-     - 16 person years (1 person minute)
+     - 16 person years (0.19 person minutes)
 
-These figures are very uncertain: (:doc:`Source <../cdmp_costs>`).
+These figures are very uncertain: (:doc:`Methodology <../cost_methodology>` & :doc:`Data source <../cdmp_costs>`).
+
+Lessons learned
+---------------
 
 Links
 -----
