@@ -13,8 +13,9 @@ Weather observations from marine expeditions
 Summary
 -------
 
-Lessons learned
----------------
+This is not so much a project as a collection of related projects. One approach to data rescue is problem-driven: Identify a research question, then start a project to work on that question, rescuing the data required by the research in the process. We've done several such projects, looking at Arctic climate in the 19th Century, the impact of various Antarctic expeditions, and trying to fill major holes in ICOADS and 20CR. `This repository <https://oldweather.github.io/Expeditions/index.html>`_ collects all the rescued data resulting from this work.
+
+The transcription here was done by individual specialists - numbers typed into spreadsheets from carefully selected archive sources. The sources are mostly published reports, but there are some original manuscripts. This worked very well, by selecting the source documents carefully we can be sure to get good quality data, and because the transcribers are working closely with the people post-processing and using the data it's easy to make sure the transcriptions are accurate and in a useful format. The downside is that it's all small-scale work - this process won't work for *big* data rescue projects.
 
 Costs and efficiency
 --------------------
@@ -31,10 +32,18 @@ Costs and efficiency
    * - observations rescued
      - 426,813
    * - Financial cost (per ob.)
-     - N/A
+     - N/A (very variable)
    * - Effort required (per ob.)
-     - N/A
+     - N/A (very variable)
 
+
+
+Lessons learned
+---------------
+
+* For small-scale projects, this artisanal approach is the way to go.
+* Expensive - because transcription is only one part of the work, the overall cost/ob is very high.
+* Effective and efficient way of doing science projects - not ueable as a large-scale transcription approach.
 
 Links
 -----

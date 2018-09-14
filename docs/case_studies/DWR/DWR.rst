@@ -13,6 +13,10 @@ New UK-region weather observations digitised from the Daily Weather Reports
 Summary
 -------
 
+This project extended the citizen science approach to transcription to station data. It set out to transcribe UK-region station observations from the `Daily Weather Reports <https://www.metoffice.gov.uk/learning/library/archive-hidden-treasures/daily-weather-reports>`_ for the period 1900-1910. It was built on the `Zooniverse <https://zooniverse.org>`_ infrastructure, in particular their `project builder <https://lab.zooniverse.org/>`_ tool - which meant that the website could be put together with no cost except for the researcher time to build it.
+
+
+
 Costs and efficiency
 --------------------
 
@@ -35,6 +39,8 @@ Costs and efficiency
 
 Lessons learned
 ---------------
+
+* Citizen science does work for transcription of 'boring' weather-only documents.
 
 Links
 -----
