@@ -45,7 +45,7 @@ Lessons learned
 
 * For small-scale projects, this artisanal approach is the way to go.
 * Expensive - because transcription is only one part of the work, the overall cost/ob is very high.
-* Effective and efficient way of doing science projects - not ueable as a large-scale transcription approach.
+* Effective and efficient way of doing science projects - not useable as a large-scale transcription approach.
 
 Links
 -----
