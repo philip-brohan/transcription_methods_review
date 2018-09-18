@@ -16,7 +16,7 @@
     <link rel="index" title="Index" href="../../genindex.html" />
     <link rel="search" title="Search" href="../../search.html" />
     <link rel="next" title="Conclusions and recommendations" href="../../conclusions.html" />
-    <link rel="prev" title="New UK-region weather observations digitised from the Daily Weather Reports" href="../DWR/DWR.html" /> 
+    <link rel="prev" title="Weather observations from marine expeditions" href="../Expeditions/Expeditions.html" /> 
   </head><body>
     <div class="related" role="navigation" aria-label="related navigation">
       <h3>Navigation</h3>
@@ -28,7 +28,7 @@
           <a href="../../conclusions.html" title="Conclusions and recommendations"
              accesskey="N">next</a> |</li>
         <li class="right" >
-          <a href="../DWR/DWR.html" title="New UK-region weather observations digitised from the Daily Weather Reports"
+          <a href="../Expeditions/Expeditions.html" title="Weather observations from marine expeditions"
              accesskey="P">previous</a> |</li>
         <li class="nav-item nav-item-0"><a href="../../index.html">Transcription Review</a> &#187;</li>
           <li class="nav-item nav-item-1"><a href="../case_studies.html" accesskey="U">Transcription project case studies</a> &#187;</li> 
@@ -45,11 +45,13 @@
 </ul>
 <ul class="current">
 <li class="toctree-l1"><a class="reference internal" href="../../the_problem.html">The transcription problem</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../../existing_guidance.html">Existing guidance</a></li>
 <li class="toctree-l1 current"><a class="reference internal" href="../case_studies.html">Transcription project case studies</a><ul class="current">
-<li class="toctree-l2"><a class="reference internal" href="../small_scale_professional.html">Small-scale professional transcription</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../large_scale_professional.html">Large-scale professional transcription</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../citizen_science.html">Citizen Science</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../RN_WW2/RN_WW2.html">Weather observations rescued from RN WW2 logs</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../EEIC/EEIC.html">English East-India Company logbooks, 1785-1835</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../oldweather/oldweather1+2/oldweather1+2.html">oldWeather1&amp;2 - Royal Navy logbooks from 1913-1923</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../oldweather/oldweather3/oldweather3.html">oldWeather3 - U.S. Arctic logbooks</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../DWR/DWR.html">New UK-region weather observations digitised from the Daily Weather Reports</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../Expeditions/Expeditions.html">Weather observations from marine expeditions</a></li>
 <li class="toctree-l2 current"><a class="current reference internal" href="#">Automated systems</a></li>
 </ul>
 </li>
@@ -84,7 +86,7 @@ Please <a href="https://github.com/philip-brohan/transcription_methods_review/is
 <p>This feels as if it ought to be possible, especially given the rapid pace of modern research in machine vision and image analysis (the <a class="reference external" href="http://yann.lecun.com/exdb/mnist/">MNIST benchmark</a> has reached well over 99% accuracy). However, so far nobody has managed it (at a reasonable level of accuracy). It is a different problem from OCR of prose: finding the locations on the page of data to be transcribed is much more important, and there is less opportunity to guess character values from preceeding and following characters.</p>
 <p>We recently <a class="reference download internal" href="../../_downloads/Auto-digitization_of_Weather_Observations.pdf" download=""><code class="xref download docutils literal notranslate"><span class="pre">ran</span> <span class="pre">a</span> <span class="pre">project</span></code></a> to test the power of a current OCR system to transcribe weather records. The OCR system tested was <a class="reference external" href="https://www.parascript.com/formxtra1/">Parascript FormXtra</a>, operated by <a class="reference external" href="https://westech-esolutions.com/">WesTech eSolutions Inc.</a>. We tested this system on three different types of document: the printed Indian Daily Weather Reports (<a class="reference download internal" href="../../_downloads/idwr1931-v1_0074.jpg" download=""><code class="xref download docutils literal notranslate"><span class="pre">sample</span> <span class="pre">image</span></code></a>), typed log of the USS Farragut (<a class="reference download internal" href="../../_downloads/Farragut-DD-348-1942-06-0009.jpg" download=""><code class="xref download docutils literal notranslate"><span class="pre">sample</span> <span class="pre">image</span></code></a>), and handwritten log of USS Jeanette (<a class="reference download internal" href="../../_downloads/vol003_155_0.jpg" download=""><code class="xref download docutils literal notranslate"><span class="pre">sample</span> <span class="pre">image</span></code></a>). We expected these to be of increasing difficulty (printed easier than typed easier than handwritten).</p>
 <p>The OCR system was about 50% successful in reading pressure observations from the documents. This is nothing like good enough (manual methods are about 99% successful), but the test did identify opportunities for improvement. In particular, the system was almost as good at reading handwriting as print, but varied a lot in success rate between pages from the same source. This suggests that systematic experimentation in image pre-processing (de-skewing, despeckling, contrast enhancement, …) might generate large improvements given only modest effort.</p>
-<p>Document transcription is not a climate-specific problem - it is valuable to many fields, so the absence of much serious research in the area is strange. This does mean that any work we did in this area would both be very valuable, and might get other researchers interested. (We are talking to <a class="reference external" href="https://read.transkribus.eu/2018/04/16/help-us-process-tables/">Transkribus</a> but so far nothing hasa come of this).</p>
+<p>Document transcription is not a climate-specific problem - it is valuable to many fields, so the absence of much serious research in the area is strange. This does mean that any work we did in this area would both be very valuable, and might get other researchers interested. (We are talking to <a class="reference external" href="https://read.transkribus.eu/2018/04/16/help-us-process-tables/">Transkribus</a> but so far nothing has come of this).</p>
 <p>We should encourage research in this area, and in particular we should provide some benchmark datasets: collections of log page images with known transcriptions - so people writing auto-transcription tools can test their accuracy (benchmark datasets like <a class="reference external" href="http://yann.lecun.com/exdb/mnist/">MNIST</a> and <a class="reference external" href="https://qz.com/1034972/the-data-that-changed-the-direction-of-ai-research-and-possibly-the-world/">ImageNet</a> have been very successful in driving development). Our existing data rescue projects are obvious sources for these, and we have already made <a class="reference external" href="http://brohan.org/OCR-weatherrescue/">one such dataset</a>.</p>
 <div class="section" id="costs-and-efficiency">
 <h2>Costs and efficiency<a class="headerlink" href="#costs-and-efficiency" title="Permalink to this headline">¶</a></h2>
@@ -154,7 +156,7 @@ Please <a href="https://github.com/philip-brohan/transcription_methods_review/is
           <a href="../../conclusions.html" title="Conclusions and recommendations"
              >next</a> |</li>
         <li class="right" >
-          <a href="../DWR/DWR.html" title="New UK-region weather observations digitised from the Daily Weather Reports"
+          <a href="../Expeditions/Expeditions.html" title="Weather observations from marine expeditions"
              >previous</a> |</li>
         <li class="nav-item nav-item-0"><a href="../../index.html">Transcription Review</a> &#187;</li>
           <li class="nav-item nav-item-1"><a href="../case_studies.html" >Transcription project case studies</a> &#187;</li> 

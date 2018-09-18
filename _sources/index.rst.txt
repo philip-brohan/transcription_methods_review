@@ -25,4 +25,4 @@ Datasets of historical weather observations are vital to our understanding of cl
    credits
 
 
-This document is published under the terms of the `Open Government Licence <https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/>`_.
+This document is crown copyright (2018). It is published under the terms of the `Open Government Licence <https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/>`_.

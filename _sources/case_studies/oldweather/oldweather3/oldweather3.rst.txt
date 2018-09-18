@@ -25,7 +25,7 @@ The oldWeather3 website cost about £25,000 to set up (2018 £) - it was derived
 
 The other major financial cost is project management: the project took probably about a fifth of one climate scientist's time to support. Costing them at an arbitrary £70,000 per year gives a £85,000 management cost.
 
-The 200,000 images `each took around 10 minuutes to transcribe <https://github.com/oldweather/oldWeather3/tree/master/monitoring/time_per_page>`_, and each was done three times - that's about 100,000 person-hours of work, about 62 person years at typical full-time rate (200 days/year, 8 hours/day). All this work was done by the project volunteers.
+The 200,000 images `each took around 10 minutes to transcribe <https://github.com/oldweather/oldWeather3/tree/master/monitoring/time_per_page>`_, and each was done three times - that's about 100,000 person-hours of work, about 62 person years at typical full-time rate (200 days/year, 8 hours/day). All this work was done by the project volunteers.
 
 The amount of volunteer work put into the project is more than this, because the project has done much more than just transcribe the weather observations. A lot of effort has been put into history, community-building and project outreach, but this probably shouldn't be counted as a transcription cost.  
 
@@ -45,7 +45,7 @@ The amount of volunteer work put into the project is more than this, because the
    * - Effort required (per ob.)
      - 62 person years (4.6 person minutes - will reduce to about 1.1 person minutes)
 
-:doc:`Methodology <../cost_methodology>`.
+:doc:`Methodology <../../cost_methodology>`.
 
 We have not yet completed processing all the transcriptions into observations. When this is complete we will have perhaps 4 times as many observations from this project, and the costs per observation will reduce accordingly.
 
@@ -53,8 +53,8 @@ Lessons learned
 ---------------
 
 * In data rescue, some observations are more difficult than others. Older records are harder to read, more variable in format, more difficult to interpret. These records took more than 4 times as much effort to transcribe as simpler records from later periods.
-* Participation in this project was very different  to that in :doc:`original oldWeather <../oldweather1+2/oldweather1+2>` only about 1/4 as many people participated at all (4,000 instead of 16,000) and the majority of the work in this case was done by a core group of 20 or so super-volunteers (in original oldWeather the work was much more diustributed.
-* One problem with this project is that the barrier to participation was high (the minuimum contribuition was one transcribed page, about 10 mins of work) 19/20 potential participants gave up before finising their first page.
+* Participation in this project was very different  to that in :doc:`original oldWeather <../oldweather1+2/oldweather1+2>` only about 1/4 as many people participated at all (4,000 instead of 16,000) and the majority of the work in this case was done by a core group of 20 or so super-volunteers (in original oldWeather the work was much more distributed).
+* One problem with this project is that the barrier to participation was high (the minuimum contribution was one transcribed page, about 10 mins of work), so 19/20 potential participants gave up before finishing their first page.
 * In spite of these problems, the project was a success, and generated many of the same fringe benefits as :doc:`original oldWeather <../oldweather1+2/oldweather1+2>`. But it did take a long time.
 
 Links

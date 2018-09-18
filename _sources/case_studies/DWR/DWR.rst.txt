@@ -48,7 +48,7 @@ Lessons learned
 ---------------
 
 * Citizen science does work for transcription of 'boring' weather-only documents. (We thought that :doc:`oldWeather <../oldweather/oldweather1+2/oldweather1+2>` was successful partly because the ship's logs it was transcribing contain records of human interest, as well as weather observations. But the DWR observations are data-only, and this project still worked well).
-* Sub-dividing a page of observations so that each volunteer only needs to do a small tast (instead of a time-consuming whole page) is a good idea.
+* Sub-dividing a page of observations so that each volunteer only needs to do a small task (instead of a time-consuming whole page) is a good idea.
 * The `Zooniverse project builder <https://lab.zooniverse.org/>`_ tool works well.
 
 Links

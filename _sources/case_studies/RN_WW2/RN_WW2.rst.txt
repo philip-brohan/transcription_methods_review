@@ -46,9 +46,9 @@ These figures are very uncertain: (:doc:`Methodology <../cost_methodology>` & :d
 Lessons learned
 ---------------
 
-* The Observations in the ADM53 series in the National Archives are well worth rescuing. They are made by mariners, rather than meteorologists, and are less accurate than most observations in meteorological archives, but they are not bad, and there are a lot of them, with geographically widespread coverage.
-* If you can afford it, CDMP's transcription technique of using a group of experienced, professional data keyers is a good way to go. They produced accurate transcriptions, in a well thought out, cocnsistent and easy to use format.
-* A major practical challenge for marine data is keeping track of the ship position. There is a positin given on most log pagesl, but often it is the name of a port or place, and geolocating these can be very time-consuming.
+* The Observations in the ADM53 series in the National Archives are well worth rescuing. They are made by mariners, rather than meteorologists, and are less accurate than most observations in meteorological archives; but they are not bad, and there are a lot of them, with geographically widespread coverage.
+* If you can afford it, CDMP's transcription technique of using a group of experienced, professional data keyers is a good way to go. They produced accurate transcriptions, in a well thought out, consistent, and easy to use format.
+* A major practical challenge for marine data is keeping track of the ship position. There is a position given on most log pages, but often it is the name of a port or place, and geolocating these can be very time-consuming.
 
 
 Links
