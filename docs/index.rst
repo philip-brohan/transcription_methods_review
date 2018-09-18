@@ -1,6 +1,8 @@
 Approaches to transcription of weather observations
 ===================================================
 
+Datasets of historical weather observations are vital to our understanding of climate change and variability, and improving those datasets means transcribing millions of observations - converting paper records into a digital form. Here we review a variety of methods for doing this transcription.
+
 .. toctree::
    :titlesonly:
    :maxdepth: 1
@@ -12,7 +14,7 @@ Approaches to transcription of weather observations
    :maxdepth: 4
 
    the_problem
-   existing_guidance
+   
    case_studies/case_studies
    conclusions
 
@@ -23,4 +25,4 @@ Approaches to transcription of weather observations
    credits
 
 
-This document is licensed under the terms of the `Open Government Licence <https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/>`_.
+This document is published under the terms of the `Open Government Licence <https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/>`_.

@@ -16,5 +16,6 @@ All blame should go to the maintainer; credit is more widely distributed:
    * `oldWeather.org phases 1&2 <http://old.oldweather.org/about>`_
    * `oldWeather.org phase 3 <http://classic.oldweather.org/about>`_
    * `Auto-transcription benchmark 1: Fort William pressures <http://brohan.org/OCR-weatherrescue/credits.html>`_
+* The automatic transcription test was done by Gilbert P. Compo, Prashant D. Sardeshmukh, Chesley McColl, Lawrence Spencer, Raj Rajagopal, William F. West, Philip Brohan and Kevin Wood. It was funded by the `Climate Science for Service Partnership China <https://www.metoffice.gov.uk/research/collaboration/cssp-china>`_.
   
 Note that appearance on this list does not mean that the person or organisation named endorses this work, agrees with any of it, or even knows of its existence.

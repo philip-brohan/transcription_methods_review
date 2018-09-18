@@ -20,6 +20,8 @@ The transcription here was done by individual specialists - numbers typed into s
 Costs and efficiency
 --------------------
 
+We can't estimate costs and speed for this dataset, as it's too variable: It's a set of very different pieces of work, run intermittently over several years.
+
 |
 
 .. list-table::
@@ -36,7 +38,7 @@ Costs and efficiency
    * - Effort required (per ob.)
      - N/A (very variable)
 
-
+:doc:`Methodology <../cost_methodology>`.
 
 Lessons learned
 ---------------
@@ -47,7 +49,6 @@ Lessons learned
 
 Links
 -----
-
 
 * `Repository with the rescued data <https://oldweather.github.io/Expeditions/index.html>`_
 * `Paper on some of the expeditions <https://www.clim-past.net/6/315/2010/>`_

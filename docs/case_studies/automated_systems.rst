@@ -1,6 +1,0 @@
-Automated systems
-=================
-
-
-
-
