@@ -47,9 +47,22 @@ The amount of volunteer work put into the project is much more than this, becaus
    * - Effort required (per ob.)
      - 21 person-years (0.3 person minutes)
 
+:doc:`Methodology <../cost_methodology>`.
 
 Lessons learned
 ---------------
+
+* Citizen science works. It is instructive to compare the costs and productivity of this project with the :doc:`Royal Navy WW2 <../RN_WW2/RN_WW2>` project, which was a very similar project but used professional transcribers. oldWeather does similarly well on all fronts except financial cost, which is much reduced.
+* Good things about citizen science:
+  - It's cheaper.
+  - It has great side outputs: public and press outreach, historical products, volunteer engagement, inspiring spin-off projects, ...
+  - It's no less accurate.
+* Bad things about citizen science:
+  - It's a lot of work to manage (the volunteers contributed a lot of management effort, as well as doing the transcriptions).
+  - It's expensive in human effort.
+  - It isn't any faster (maybe it could be, but we didn't manage it).
+* We could have got even more from the volunteers if we'd set up better systems for capturing their contributions. Volunteers made vital contributions to difficult problems such as observations quality checking & ship positions, but they did this in spite of the web interface, which was designed to allow them only to enter page transcriptions. 
+
 
 Links
 -----
@@ -58,4 +71,3 @@ Links
 
 |
 
-Because oldWeather was such a success, we ran a :doc:`follow-on project <../oldweather3/oldweather3>`. 

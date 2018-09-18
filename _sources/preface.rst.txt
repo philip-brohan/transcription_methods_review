@@ -19,4 +19,4 @@ As well as these project repositories, there is `one more <https://github.com/ph
 
 A virtue of this approach is that it contains vastly more information than any possible paper document; this should make it much more useful to anyone setting up a new data rescue project. It is far from comprehensive - there are many other projects out there not included - but it does cover a wide range of approaches. 
 
-This is version 0.0.1, dated at 2018-08-31. If you have found a problem with it, or want to make a comment, please `raise an issue <https://github.com/oldweather/20CRv3-diagnostics/issues/new>`_.
+This is version 0.9.0, dated at 2018-09-18. If you have found a problem with it, or want to make a comment, please `raise an issue <https://github.com/philip-brohan/transcription_methods_review/issues/new>`_.
