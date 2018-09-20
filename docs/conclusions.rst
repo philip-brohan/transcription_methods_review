@@ -47,7 +47,7 @@ Cost matrix
      - 2017 - 2018
      - 1,800,000
      - £15,000 (£0.008)
-     - 19 person years (1 person minutes)
+     - 8 person years (0.5 person minutes)
      - 0.6 years (0.2 minutes)
    * - :doc:`Marine expeditions <case_studies/Expeditions/Expeditions>`
      - 2007 - present
