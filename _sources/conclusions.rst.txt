@@ -65,9 +65,13 @@ For academic-scale projects, where transcription is a small part of the total wo
 
 Citizen science works works pretty much as well as large-scale commercial and has a much lower financial cost (contrast :doc:`Royal Navy WW2 <case_studies/RN_WW2/RN_WW2>` with :doc:`oldWeather1&2 <case_studies/oldweather/oldweather1+2/oldweather1+2>`, and :doc:`East India Company <case_studies/EEIC/EEIC>` with :doc:`oldWeather3 <case_studies/oldweather/oldweather3/oldweather3>`). It's also encouraging that citizen science has been successful not only with ship's logbooks (plenty of human interest) but also with the intrinsically less appealing data tables used for the :doc:`UK DWR stations <case_studies/DWR/DWR>`. A lot of the credit for the success of citizen science in this field is due to `Zooniverse <https://zooniverse.org>`_.
 
+Participation rates in citizen science projects are sensitive to the difficulty of the exact task requested of the volunteers. Making the requested unit of work smaller - perhaps by presenting only a fragment of a page to be transcribed, rather than the whole thing, can increase participation a lot.
+
 The speed, cost and efficiency of transcription depends most on the difficulty of the task: observations in hard-to-read older documents took several times as much time and effort to read as those in easier, more modern documents. (Contrast :doc:`oldWeather1&2 <case_studies/oldweather/oldweather1+2/oldweather1+2>` with :doc:`oldWeather3 <case_studies/oldweather/oldweather3/oldweather3>`, and :doc:`Royal Navy WW2 <case_studies/RN_WW2/RN_WW2>` with :doc:`East India Company <case_studies/EEIC/EEIC>`).
 
 Transcription is fundamentally slow - speeds in these projects vary from 6 observations/minute to 1 observation every 3 minutes. It also consumes a lot of work -  from 0.2 to 2.2 person-minutes for each observation. This is the major current limitation: the number of observations remaining to be transcribed is unknown, but 1 billion (1,000,000,000) is a reasonable planning number. At typical rates shown above, this will take of order 100 years elapsed, (and 500 person-years effort). This is too long - we **must** :doc:`go faster <case_studies/automated_systems/automated_systems>`.
+
+Document transcription is not a climate-specific problem - it is valuable to many fields. It's worth trying to get more people working on transcription in general, perhaps by emphasising its importance to climate research. 
 
 Recommendations
 ---------------

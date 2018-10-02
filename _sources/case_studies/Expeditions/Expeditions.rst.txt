@@ -6,7 +6,7 @@ Weather observations from marine expeditions
     <center>
     <table><tr><td><center>
     <iframe src="https://player.vimeo.com/video/132910329?title=0&byline=0&portrait=0" width="850" height="478" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></center></td></tr>
-    <tr><td><center>Surface weather as reconstructed by the 20th Century Reanalysis, and as observed by the <a href="https://oldweather.github.io/Expeditions/voyages/Imperial_trans_antarctic.html">Imperial Trans-Antarctic Expedition</a>. Grey fog marks areas where the reanalysis is very uncertain.</center></td></tr>
+    <tr><td><center>Surface weather as reconstructed by the 20th Century Reanalysis, and as observed by the <a href="https://oldweather.github.io/Expeditions/voyages/Imperial_trans_antarctic.html">Imperial Trans-Antarctic Expedition</a>.<p>On the left: wind and temperature fields from 20CR, with the routes of the expedition ships Endurance (red) and Aurora (blue). Grey fog marks areas where the reanalysis is very uncertain. <p> On the right: timeseries of observations rescued from the expedition records (red: observations from Endurance, blue: observations from Aurora). The grey bands show co-located values from 20CR - the width of the band shows the reanalysis ensemble spread. (Light grey: reanalysis not using the expedition's observations, dark grey: reanalysis after including the expedition's observations).</center></td></tr>
     </table>
     </center>
 
@@ -38,7 +38,7 @@ We can't estimate costs and speed for this dataset, as it's too variable: It's a
    * - Effort required (per ob.)
      - N/A (very variable)
 
-:doc:`Methodology <../cost_methodology>`.
+:doc:`How are these numbers estimated <../cost_methodology>`?
 
 Lessons learned
 ---------------

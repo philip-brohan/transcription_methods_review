@@ -22,7 +22,7 @@ The 'Weather Rescue' project was led by `Ed Hawkins <http://www.met.reading.ac.u
 Costs and efficiency
 --------------------
 
-The financial cost of this project was limited to the researcher time needed to set up and run it. We estimate this at about a quarter of one climate scientist’s time over 9 months. Costing them at an arbitrary £70,000 per year gives a £15,000 management cost.
+The financial cost of this project was limited to the researcher time needed to set up and run it. We estimate this at about a quarter of one climate scientist’s time over 9 months. Estimating their total cost (salary + overheads) at an arbitrary £70,000 per year gives a £15,000 management cost.
 
 Each observation takes only a few seconds of volunteer time to transcribe, but each was done by 5 volunteers to ensure the accuracy of the result, so effort/ob. is around 30 seconds.
 
@@ -42,7 +42,7 @@ Each observation takes only a few seconds of volunteer time to transcribe, but e
    * - Effort required (per ob.)
      - 8 person years (0.5 person minutes)
 
-:doc:`Methodology <../cost_methodology>`.
+:doc:`How are these numbers estimated? <../cost_methodology>`.
 
 Lessons learned
 ---------------

@@ -41,7 +41,7 @@ Costs and efficiency
    * - Effort required (per ob.)
      - 16 person years (0.19 person minutes)
 
-These figures are very uncertain: (:doc:`Methodology <../cost_methodology>` & :doc:`Data source <../cdmp_costs>`).
+These figures are very uncertain: (:doc:`How are these (very uncertain) numbers estimated? <../cost_methodology>` (& :doc:`Data source <../cdmp_costs>`).
 
 Lessons learned
 ---------------
