@@ -10,7 +10,7 @@ Everything we know about past climate change and variability depends upon access
     <center>
     <table><tr><td><center>
     <iframe src="https://player.vimeo.com/video/278299089?title=0&byline=0&portrait=0" width="760" height="427" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></center></td></tr>
-    <tr><td><center>A sample of the observations available for reconstructing past climate. These are pressure observations in the International Surface Pressure Databank (version 3.2.9). (<a href="figures/global_observations_coverage.html">Figure source</a>)</center></td></tr>
+    <tr><td><center>A sample of the observations available for reconstructing past climate. These are pressure observations in the International Surface Pressure Databank (version 3.2.9). Each observation is shown on-screen for 6-hours either side of the time of observation, and the video shows every observation available, sampling one month every 5 years over the period 1851-2000- starting in 1998 and going backwards. (<a href="figures/global_observations_coverage.html">Figure source</a>)</center></td></tr>
     </table>
     </center>
 
@@ -36,4 +36,3 @@ Links
 * `I-DARE Portal <https://www.idare-portal.org/>`_
 * `Brönnimann et al. 2006 - 'A guide to digitising manuscript climate data' <https://www.clim-past.net/2/137/2006/>`_
 * `WMO Expert Team on Data Rescue (ET-DARE) <http://www.wmo.int/pages/prog/wcp/ccl/opace/opace1/ET-DARE-1-2.php>`_
-* `C3S Data Rescue Service <http://ensembles-eu.metoffice.com/C3S-DR/index_C3SDR.html>`_
