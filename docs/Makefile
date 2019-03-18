@@ -5,7 +5,7 @@
 SPHINXOPTS    =
 SPHINXBUILD   = sphinx-build
 PAPER         =
-BUILDDIR      = ../../transcription_methods_review.ghpg
+BUILDDIR      = $(SCRATCH)/Projects.ghpg/transcription_methods_review.ghpg
 
 # Internal variables.
 PAPEROPT_a4     = -D latex_paper_size=a4
